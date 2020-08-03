@@ -1,0 +1,7 @@
+D:\DotNet-training\AssignConsole\AssignConsole\bin\Debug\AssignConsole.exe.config
+D:\DotNet-training\AssignConsole\AssignConsole\bin\Debug\AssignConsole.exe
+D:\DotNet-training\AssignConsole\AssignConsole\bin\Debug\AssignConsole.pdb
+D:\DotNet-training\AssignConsole\AssignConsole\obj\Debug\AssignConsole.csprojAssemblyReference.cache
+D:\DotNet-training\AssignConsole\AssignConsole\obj\Debug\AssignConsole.csproj.CoreCompileInputs.cache
+D:\DotNet-training\AssignConsole\AssignConsole\obj\Debug\AssignConsole.exe
+D:\DotNet-training\AssignConsole\AssignConsole\obj\Debug\AssignConsole.pdb
