@@ -1,0 +1,6 @@
+D:\DotNet-training\Sample\Sample\bin\Debug\Sample.dll
+D:\DotNet-training\Sample\Sample\bin\Debug\Sample.pdb
+D:\DotNet-training\Sample\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+D:\DotNet-training\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\DotNet-training\Sample\Sample\obj\Debug\Sample.dll
+D:\DotNet-training\Sample\Sample\obj\Debug\Sample.pdb
